@@ -9,6 +9,6 @@
 </head>
 <body>
     <?php
-    $uri =service('uri');
+    $uri = service('uri');
     ?>
     
